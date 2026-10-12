@@ -1,0 +1,62 @@
+/* ============================================================
+   皮皮软件 · 设计规范（Design Tokens）
+   品牌主色为暖橙色，搭配暖米白背景与深灰近黑的正文色。
+   ============================================================ */
+
+:root {
+  /* 品牌橙 */
+  --orange-500: #ff7a1f;
+  --orange-600: #f2600a;
+  --orange-700: #c24909;
+  --orange-300: #ffb37a;
+  --orange-100: #ffe9d9;
+  --orange-50: #fff6ee;
+
+  /* 辅助色（低饱和，用于分类与点缀） */
+  --amber-100: #fff3dc;
+  --amber-700: #96660d;
+  --sage-100: #e4f1e9;
+  --sage-700: #2f7d57;
+  --sand-100: #f3ecdf;
+  --sand-700: #7a5c33;
+  --lilac-100: #efeaf8;
+  --lilac-700: #6b54a8;
+
+  /* 中性色（暖调） */
+  --bg: #faf6f1;
+  --bg-soft: #f4ede3;
+  --surface: #ffffff;
+  --ink: #2c2520;
+  --ink-2: #5e554d;
+  --ink-3: #8b8177;
+  --line: #ece2d6;
+  --line-strong: #d9ccb9;
+
+  /* 页脚深色区 */
+  --footer-bg: #2a231d;
+  --footer-ink: #ece3d8;
+  --footer-ink-2: #b3a698;
+  --footer-line: rgba(236, 227, 216, 0.14);
+
+  /* 圆角 */
+  --radius-s: 10px;
+  --radius-m: 14px;
+  --radius-l: 22px;
+  --radius-pill: 999px;
+
+  /* 阴影 */
+  --shadow-s: 0 1px 2px rgba(44, 37, 32, 0.05), 0 2px 10px rgba(44, 37, 32, 0.05);
+  --shadow-m: 0 2px 4px rgba(44, 37, 32, 0.05), 0 14px 34px rgba(44, 37, 32, 0.1);
+  --shadow-brand: 0 3px 8px rgba(242, 96, 10, 0.18), 0 12px 28px rgba(242, 96, 10, 0.22);
+
+  /* 字体 */
+  --font-sans: 'PingFang SC', 'MiSans', 'HarmonyOS Sans SC', 'Microsoft YaHei',
+    'Noto Sans SC', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  /* 布局 */
+  --container: 1120px;
+  --header-h: 72px;
+
+  /* 动效 */
+  --ease-out: cubic-bezier(0.22, 0.61, 0.21, 1);
+}

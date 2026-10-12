@@ -1,0 +1,26 @@
+{
+  "name": "pipiapp-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "皮皮软件（pipiapp.cn）官方网站",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generate-sitemap.mjs && vite-ssg build",
+    "preview": "vite preview",
+    "typecheck": "vue-tsc --noEmit",
+    "deploy": "npm run build && npx wrangler pages deploy dist --project-name pipiapp --branch main --commit-dirty=true"
+  },
+  "dependencies": {
+    "@unhead/vue": "^2.1.2",
+    "vue": "^3.5.18",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.10",
+    "typescript": "^5.8.3",
+    "vite": "^7.1.6",
+    "vite-ssg": "^28.3.0",
+    "vue-tsc": "^3.0.5"
+  }
+}

@@ -1,0 +1,125 @@
+- generic [ref=f2e2]:
+  - link "跳到主要内容" [ref=f2e3] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f2e4]:
+    - generic [ref=f2e5]:
+      - link "皮皮软件 首页" [ref=f2e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f2e13]: 皮皮软件
+      - button "打开菜单" [ref=f2e15] [cursor=pointer]
+  - main [ref=f2e17]:
+    - generic [ref=f2e18]:
+      - generic [ref=f2e21]:
+        - paragraph [ref=f2e22]: PiPi App · 独立软件品牌
+        - heading [level=1] [ref=f2e26]:
+          - text: 好用的软件， 从
+          - generic [ref=f2e27]: 皮皮
+          - text: 开始。
+        - paragraph [ref=f2e30]: 皮皮软件专注打造简单、实用的软件工具——图片处理、文件管理、系统工具与效率小件，让每一个小功能都能真正提高效率。
+        - generic [ref=f2e31]:
+          - link "浏览全部软件" [ref=f2e32] [cursor=pointer]:
+            - /url: /software
+          - link "了解皮皮软件" [ref=f2e33] [cursor=pointer]:
+            - /url: /about
+        - list "品牌特点" [ref=f2e34]:
+          - listitem [ref=f2e35]: 简单易用
+          - listitem [ref=f2e36]: 实用高效
+          - listitem [ref=f2e37]: 持续更新
+      - generic [ref=f2e74]:
+        - generic [ref=f2e76]:
+          - paragraph [ref=f2e77]: 软件产品
+          - heading "发现好用的软件" [level=2] [ref=f2e78]
+          - paragraph [ref=f2e79]: 从日常小工具到效率应用，找到适合你的软件。
+        - generic [ref=f2e80]:
+          - img "软件正在开发中的插画" [ref=f2e81]
+          - generic [ref=f2e88]:
+            - heading "第一款软件正在打磨中" [level=3] [ref=f2e89]
+            - paragraph [ref=f2e90]: 我们正在认真开发第一批小工具，不追求数量，只求每一款都真正好用。发布后会第一时间在这里与大家见面。
+            - generic [ref=f2e91]:
+              - link "了解皮皮软件" [ref=f2e92] [cursor=pointer]:
+                - /url: /about
+              - link "查看全部软件" [ref=f2e93] [cursor=pointer]:
+                - /url: /software
+      - generic [ref=f2e95]:
+        - generic [ref=f2e96]:
+          - generic [ref=f2e97]:
+            - paragraph [ref=f2e98]: 在线工具
+            - heading "免安装，打开即用。" [level=2] [ref=f2e99]
+            - paragraph [ref=f2e100]: 在浏览器里直接完成的小工具，粘贴链接就能出结果。
+          - link "查看全部工具" [ref=f2e101] [cursor=pointer]:
+            - /url: /tools
+        - link "皮皮去水印 粘贴短视频分享链接，一键解析无水印视频、图集与 Live 实况照片。 打开" [ref=f2e103] [cursor=pointer]:
+          - /url: https://qushuiyin.pipiapp.cn/
+          - generic [ref=f2e108]:
+            - generic [ref=f2e109]: 皮皮去水印
+            - generic [ref=f2e110]: 粘贴短视频分享链接，一键解析无水印视频、图集与 Live 实况照片。
+          - generic [ref=f2e111]: 打开
+      - generic [ref=f2e117]:
+        - generic [ref=f2e118]:
+          - paragraph [ref=f2e119]: 品牌理念
+          - heading "小工具，也值得认真做好。" [level=2] [ref=f2e120]
+          - paragraph [ref=f2e121]: 我们相信规模不是标准，把每一件小事做到位才是。
+        - list [ref=f2e123]:
+          - listitem [ref=f2e124]:
+            - generic [ref=f2e131]:
+              - heading "简单易用" [level=3] [ref=f2e132]
+              - paragraph [ref=f2e133]: 减少不必要的操作，让软件功能清晰直观，打开就能上手。
+          - listitem [ref=f2e134]:
+            - generic [ref=f2e140]:
+              - heading "实用高效" [level=3] [ref=f2e141]
+              - paragraph [ref=f2e142]: 关注真实使用场景，让每款软件都为解决一个具体问题而生。
+          - listitem [ref=f2e143]:
+            - generic [ref=f2e148]:
+              - heading "持续更新" [level=3] [ref=f2e149]
+              - paragraph [ref=f2e150]: 用心打磨细节，及时修复问题，并根据实际需求持续迭代。
+      - generic [ref=f2e152]:
+        - generic [ref=f2e153]:
+          - generic [ref=f2e154]:
+            - paragraph [ref=f2e155]: 关于皮皮软件
+            - heading "认真做好每一款软件。" [level=2] [ref=f2e156]
+          - paragraph [ref=f2e157]: 皮皮软件是一个持续打造实用软件产品的品牌。我们希望通过简单、易用的工具，帮助用户更轻松地完成日常任务。从一款小工具开始，逐步完善产品，让好用的软件变得触手可及。
+          - link "了解更多" [ref=f2e158] [cursor=pointer]:
+            - /url: /about
+        - generic [aria-hidden] [ref=f2e161]:
+          - generic [ref=f2e169]: 轻量
+          - generic [ref=f2e170]: 易用
+          - generic [ref=f2e171]: 持续更新
+  - contentinfo [ref=f2e172]:
+    - generic [ref=f2e173]:
+      - generic [ref=f2e174]:
+        - generic [ref=f2e175]:
+          - paragraph [ref=f2e182]: 皮皮软件 PiPi App
+          - paragraph [ref=f2e183]: 让软件更简单，让工具更好用。
+          - paragraph [ref=f2e184]: 专注打造简单、实用、轻量的软件工具，让每一个小功能都能真正提高效率。
+        - navigation "页脚导航" [ref=f2e185]:
+          - generic [ref=f2e186]:
+            - heading "产品" [level=3] [ref=f2e187]
+            - list [ref=f2e188]:
+              - listitem [ref=f2e189]:
+                - link "首页" [ref=f2e190] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=f2e191]:
+                - link "全部软件" [ref=f2e192] [cursor=pointer]:
+                  - /url: /software
+              - listitem [ref=f2e193]:
+                - link "在线工具" [ref=f2e194] [cursor=pointer]:
+                  - /url: /tools
+          - generic [ref=f2e195]:
+            - heading "品牌" [level=3] [ref=f2e196]
+            - list [ref=f2e197]:
+              - listitem [ref=f2e198]:
+                - link "关于我们" [ref=f2e199] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=f2e200]:
+                - link "联系方式" [ref=f2e201] [cursor=pointer]:
+                  - /url: /about#contact
+          - generic [ref=f2e202]:
+            - heading "法律条款" [level=3] [ref=f2e203]
+            - list [ref=f2e204]:
+              - listitem [ref=f2e205]:
+                - link "隐私政策" [ref=f2e206] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=f2e207]:
+                - link "服务条款" [ref=f2e208] [cursor=pointer]:
+                  - /url: /terms
+      - paragraph [ref=f2e210]: © 2026 皮皮软件 pipiapp.cn · 保留所有权利
